@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['app\\autocad_lista_app.py'],
+    ['src\\autocad_lista_app.py'],
     pathex=[],
     binaries=[],
     datas=[],
