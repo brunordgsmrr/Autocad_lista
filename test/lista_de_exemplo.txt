@@ -1,0 +1,30 @@
+A          1 TRELIÇA FINAL                                           360
+A     1    2 L 3" X 3/8" (76X 9,5) x 4549  -  D/E      ASTM A 572     97
+A     7    2 L 2" X 3/16" (50 X4,7) x 910              ASTM A 572      7
+A    11    2 L 2" X 3/16" (50 X4,7) x 1227             ASTM A 572      9
+
+C          4 TRAVESA (VER 51151 005 060)                             126
+C    91    4 W 150 X 18,0 KG/M x 1574                  ASTM A-572    113
+
+16   16    2 B. ROSCADA DIA. 3/4" UNC x 250  -  GALV.  SAE 1020    0,950
+             A FOGO                                                
+             A FOGO                                                
+             A FOGO                                   
+17   17    2 B. ROSCADA DIA. 3/4" UNC x 250  -  GALV.  SAE 1020    0,950
+             1000 990 040                                   
+101  101   1 U 6" (152) 1 ALMA x 1740                  ASTM A-36      21
+102  102   6 L 4" X 1/4" (102X6,3) x 1574              ASTM A 572     93
+103  103   6 CH 5/16" (7,9) x 20 x 80  -  GALV A FOGO  ASTM A-36   0,603
+18   18   14 B. REDONDA 5/16" (8) x 161                INOX 304    0,875
+19   19    2 CABO DE AÇO 1/8" (3,2)  GALV. PLASTIF.    6 X 7 + AF      2
+             VERMELHO x 21000                           
+
+
+P          1 PARAFUSOS PARA MONTAGEM                                  23
+P   121  100 PARAF 933/5.6 C SX ROS TT M16 X 40        GALV A FOGO     9
+P   123  132 PORCA 934 CL-5 SX M16                     GALV A FOGO     7
+P   124  192 A. LISA DIN 125  M16                      GALV A FOGO     4
+P   125    6 PARAF M 933/304 C SX ROS TT M8 X 45       DIN933/A304 0,120
+P   128    6 CONTRAPORCA 936 AISI 304 CL-5 SX M8                   0,060
+                                                                                                                                                                                                                      
+PESO TOTAL 2871                                                         
