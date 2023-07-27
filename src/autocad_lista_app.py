@@ -1,14 +1,12 @@
 import autocad_lista_class as lista
 import pyperclip
-import os
 
 LISTA = []
 OUTPUT_OBJ = []
 OUTPUT_TEXT = ''
-PATH_LISP = os.getenv('USERPROFILE') + '/Documents/pcp_cad/lista'
 
 try:
-    with open(f'{PATH_LISP}/config.txt', 'r', encoding='utf-8') as file:
+    with open('./config.txt', 'r', encoding='utf-8') as file:
         itens_ignorados = file.readlines()
     #with open('utils/lista_de_exemplo.txt', 'r', encoding='utf-8') as file:
     #    conteudo = file.readlines()
@@ -30,6 +28,6 @@ try:
         OUTPUT_TEXT = f'{OUTPUT_TEXT}{i.get_lista()}\n'
     pyperclip.copy(OUTPUT_TEXT)
 
-except:
+except ValueError:
     print("Falha no script")
     input()
